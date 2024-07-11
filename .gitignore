@@ -2,7 +2,7 @@
 #
 .DS_Store
 
-
+.bundle
 __tests__
 
 # Xcode
